@@ -10,4 +10,5 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/point_handle.png" width="480"></kdb>
 ## 作成例
+　・複数の接続ポイントを指定した角度（90度単位）で追加  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/cxn1.png" width="240"></kdb>

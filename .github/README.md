@@ -4,9 +4,9 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 出力形式は、pptx形式とOpenDocumentのプレゼンテーション形式（以降odp形式）の2種類となります。  
 　  
 　・接続ポイント  
-　　Glue Point、cxn、Connection Point、接着ポイント、コネクションポイント    
+　　Glue Point、cxn、Connection Point、接着ポイント、コネクションポイントとも呼ばれてる物  
 　・調整ハンドル  
-　　Adjust Handle、Handle、アジャストハンドル  
+　　Adjust Handle、Handle、アジャストハンドルとも呼ばれてる物  
 　  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/point_handle.png" width="480"></kdb>
 ## 作成例

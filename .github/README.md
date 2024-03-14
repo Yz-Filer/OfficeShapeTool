@@ -19,11 +19,11 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　・調整ハンドルの移動に伴い、図形の変形と接続ポイントの移動  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl1.gif" width="240"></kdb>
 
-　・調整ハンドルの移動に伴い、図形を変形  
-　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl2.gif" width="240"></kdb>
-
-　・  
+　・調整ハンドルの移動に伴う、左右方向の変形  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl3.gif" width="240"></kdb>
+
+　・調整ハンドルの移動に伴う、左右上下方向の変形  
+　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl2.gif" width="240"></kdb>
 
 
 

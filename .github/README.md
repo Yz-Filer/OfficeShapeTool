@@ -17,6 +17,6 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/cxn2.png" width="480"></kdb>
 
 　・  
-　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl1.png" width="360"></kdb>
+　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl1.gif" width="360"></kdb>
 
 

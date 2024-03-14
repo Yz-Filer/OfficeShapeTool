@@ -28,8 +28,8 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　・調整ハンドルの移動に伴う、左右上下方向の変形  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl2.gif" width="240"></kdb>
 
-　・  
+　・調整ハンドルの移動に伴う、移動と変形  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl5.gif" width="240"></kdb>
 
-　・  
+　・複数調整ハンドルの移動に伴う、図形の変形  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl6.gif" width="240"></kdb>

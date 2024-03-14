@@ -25,7 +25,7 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　・調整ハンドルの移動に伴う、上下方向の変形  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl4.gif" width="240"></kdb>
 
-　・調整ハンドルの移動に伴う、左右上下方向の変形  
+　・調整ハンドルの移動に伴う、上下左右方向の変形  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl2.gif" width="240"></kdb>
 
 　・調整ハンドルの移動に伴う、移動と変形  

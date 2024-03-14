@@ -9,3 +9,5 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　　Adjust Handle、Handle、アジャストハンドル  
 　  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/point_handle.png" width="480"></kdb>
+## 作成例
+　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/cxn1.png" width="480"></kdb>

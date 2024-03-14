@@ -16,7 +16,7 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　・画像の任意の場所に接続ポイントを追加（v2から）  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/cxn2.png" width="360"></kdb>
 
-　・  
+　・調整ハンドルの移動に伴い、図形の変形と接続ポイントの移動  
 　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl1.gif" width="240"></kdb>
 
 

@@ -32,4 +32,4 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　<kbd><img src="image/hdl5.gif" width="240"></kdb>
 
 　・複数調整ハンドルの移動に伴う、図形の変形  
-　<kbd><img src="https://github.com/Yz-Filer/OfficeShapeTool/blob/main/.github/hdl6.gif" width="240"></kdb>
+　<kbd><img src="image/hdl6.gif" width="240"></kdb>

@@ -8,7 +8,7 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　・調整ハンドル  
 　　Adjust Handle、Handle、アジャストハンドルとも呼ばれてる物  
 　  
-　<img src="image/point_handle.png" width="360" border="2" />
+　<img src="image/point_handle.png" border="2" width="360" />
 
 ## 作成例
 　・複数の接続ポイントを指定した角度（90度単位）で追加  

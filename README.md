@@ -6,8 +6,8 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 　・接続ポイント  
 　　Glue Point、cxn、Connection Point、接着ポイント、コネクションポイントとも呼ばれてる物  
 　・調整ハンドル  
-　　Adjust Handle、Handle、アジャストハンドルとも呼ばれてる物  
-　  
+　　Adjust Handle、Handle、アジャストハンドルとも呼ばれてる物
+
 　<table><tr><td>
   <img src="image/point_handle.png" width="360" />
   </td></tr></table>

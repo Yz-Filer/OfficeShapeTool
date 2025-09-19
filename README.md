@@ -14,40 +14,40 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
 ## 作成例
 　・複数の接続ポイントを指定した角度（90度単位）で追加
 　<table><tr><td>
-　<img src="image/cxn1.png" width="200" />
+　　<img src="image/cxn1.png" width="200" />
   </td></tr></table>
 
 　・画像の任意の場所に接続ポイントを追加（v2から）
 　<table><tr><td>
-　<img src="image/cxn2.png" width="360" />
+　　<img src="image/cxn2.png" width="360" />
   </td></tr></table>
 
 　・調整ハンドルの移動に伴う、図形の変形と接続ポイントの移動
 　<table><tr><td>
-　<img src="image/hdl1.gif" width="240" />
+　　<img src="image/hdl1.gif" width="240" />
   </td></tr></table>
 
 　・調整ハンドルの移動に伴う、左右方向の変形
 　<table><tr><td>
-　<img src="image/hdl3.gif" width="240" />
+　　<img src="image/hdl3.gif" width="240" />
   </td></tr></table>
 
 　・調整ハンドルの移動に伴う、上下方向の変形
 　<table><tr><td>
-　<img src="image/hdl4.gif" width="240" />
+　　<img src="image/hdl4.gif" width="240" />
   </td></tr></table>
 
 　・調整ハンドルの移動に伴う、上下左右方向の変形
 　<table><tr><td>
-　<img src="image/hdl2.gif" width="240" />
+　　<img src="image/hdl2.gif" width="240" />
   </td></tr></table>
 
 　・調整ハンドルの移動に伴う、移動と変形
 　<table><tr><td>
-　<img src="image/hdl5.gif" width="240" />
+　　<img src="image/hdl5.gif" width="240" />
   </td></tr></table>
 
 　・複数調整ハンドルの移動に伴う、図形の変形
 　<table><tr><td>
-　<img src="image/hdl6.gif" width="240" />
+　　<img src="image/hdl6.gif" width="240" />
   </td></tr></table>

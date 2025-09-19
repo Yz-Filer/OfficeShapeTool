@@ -13,12 +13,12 @@ Office Open XML（以降OOXML）のプレゼンテーション形式（以降ppt
   </td></tr></table>
 
 ## 作成例
-　・複数の接続ポイントを指定した角度（90度単位）で追加  
+　・複数の接続ポイントを指定した角度（90度単位）で追加
 　<table><tr><td>
 　<img src="image/cxn1.png" width="200" />
   </td></tr></table>
 
-　・画像の任意の場所に接続ポイントを追加（v2から）  
+　・画像の任意の場所に接続ポイントを追加（v2から）
 　<table><tr><td>
 　<img src="image/cxn2.png" width="360" />
   </td></tr></table>

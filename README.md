@@ -1,7 +1,7 @@
 # [OfficeShapeTool](https://github.com/Yz-Filer/OfficeShapeTool)
 
 ## 1. はじめに
-Office Open XML（以降OOXML）のプレゼンテーション形式（以降pptx形式）で保存されたファイル内の図形に接続ポイントと調整ハンドルを追加するフリーのツールを公開しました。  
+Office Open XML（以降OOXML）のプレゼンテーション形式（以降pptx形式）で保存されたファイル内の図形に「接続ポイント」と「調整ハンドル」を追加するフリーのツールを公開しました。  
 
 - [vector](https://www.vector.co.jp/soft/winnt/business/se526365.html)  
 - [GitHub Releases](https://github.com/Yz-Filer/OfficeShapeTool/releases)  

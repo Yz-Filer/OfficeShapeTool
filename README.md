@@ -9,7 +9,7 @@
 [6. カスタム図形への回転/放射移動調整ハンドル追加](https://github.com/Yz-Filer/OfficeShapeTool#6-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%9B%B3%E5%BD%A2%E3%81%B8%E3%81%AE%E5%9B%9E%E8%BB%A2%E6%94%BE%E5%B0%84%E7%A7%BB%E5%8B%95%E8%AA%BF%E6%95%B4%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E8%BF%BD%E5%8A%A0)  
 
 ## 1. はじめに
-Office Open XML（OOXML）のプレゼンテーション形式（pptx形式）で保存されたファイルを読み込み、MS OfficeのPowerPoint（pptx形式）や、LibreOfficeのImpress（odp形式）の図形に、「接続ポイント」と「調整ハンドル」を追加できるフリーのツールを公開しました。  
+Office Open XML（OOXML）のプレゼンテーション形式（pptx形式）で保存されたファイルを読み込み、MS Office PowerPoint（pptx形式）や、LibreOffice Impress（odp形式）の図形に、「接続ポイント」と「調整ハンドル」を追加できるフリーのツールを公開しました。  
 
 - [vector](https://www.vector.co.jp/soft/winnt/business/se526365.html)  
 - [GitHub Releases](https://github.com/Yz-Filer/OfficeShapeTool/releases)  

@@ -11,18 +11,18 @@
 ## 1. はじめに
 Office Open XML（OOXML）のプレゼンテーション形式（pptx形式）で保存されたファイルを読み込み、 MS Office PowerPoint (pptx形式)や、 LibreOffice Impress (odp形式)の 図形に、「接続ポイント」と「調整ハンドル」を追加できるフリーのツールを公開しました。  
 
-- [vector](https://www.vector.co.jp/soft/winnt/business/se526365.html)  
-- [GitHub Releases](https://github.com/Yz-Filer/OfficeShapeTool/releases)  
+- 接続ポイント  
+  Glue Point、cxn、Connection Point、接着ポイント、コネクションポイントとも呼ばれてる物
 
-  - 接続ポイント  
-      Glue Point、cxn、Connection Point、接着ポイント、コネクションポイントとも呼ばれてる物
-
-  - 調整ハンドル  
-      Adjust Handle、Handle、アジャストハンドルとも呼ばれてる物  
+- 調整ハンドル  
+  Adjust Handle、Handle、アジャストハンドルとも呼ばれてる物  
 
   <table><tr><td>
     <img src="image/point_handle.png" width="360" />
   </td></tr></table>  
+
+- [vector](https://www.vector.co.jp/soft/winnt/business/se526365.html)  
+- [GitHub Releases](https://github.com/Yz-Filer/OfficeShapeTool/releases)  
 
 出力形式は、pptx形式とOpenDocumentのプレゼンテーション形式（odp形式）の2種類となります。  
 
